@@ -38,7 +38,7 @@ Sociopedia is a full-fledged social media application developed using the MERN s
 ## Installation
 
 1. Clone the repository:
-   git clone [https://github.com/yourusername/sociopedia.git](https://github.com/apuchandradas5568/Sociopedia.git)]
+   git clone [https://github.com/apuchandradas5568/sociopedia.git](https://github.com/apuchandradas5568/Sociopedia.git)]
    cd sociopedia
 
 2. Install dependencies for the client and server:
